@@ -8,7 +8,7 @@ FRIDAY = media.Movie("Friday",
     "https://www.youtube.com/watch?v=nH1Ulp4PBtA",
     "Marcus Raboy",
     "Ice Cube, Chris Tucker, Mike Epps",
-    "1995", False, None)
+    "1995")
 
 
 MAD_WOMEN = media.Movie("Diary of mad black women",
@@ -18,4 +18,4 @@ MAD_WOMEN = media.Movie("Diary of mad black women",
     "https://www.youtube.com/watch?v=13BiV4sIMGM",
     "Darren Grant",
     "Kimberly Elise, Shemar moore, Steve Harris",
-    "2005", False, None)
+    "2005")
